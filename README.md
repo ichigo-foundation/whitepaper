@@ -102,7 +102,7 @@ This approach dissociates completely the interface, the storage, and the content
 - Mainnet release
 - SDK: js, C#, java
 
-2022 Q3 
+2022 Q3  
 **Governance** - *Run ecosystem on test chain*
 - Community Governance
 - Stacking & validation
