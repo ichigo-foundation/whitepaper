@@ -4,12 +4,15 @@
 _Everyday people and businesses rely on social media to connect with friends, family, colleagues or clients, making internet social interactions a cornerstone of modern civilization. We envision a new ecosystem, fully decentralized, without gatekeepers or intermediaries, in which its community thrives in a fair and unconstrained environment, making our digital world a better place_
 
 <br />
+
 ## Overview
 Internet social media are controlled by unavoidable middlemen centralizing all its essential services and capturing financial incentives. The social ecosystem has been developing around those few players and is now restrained by their policies and bends to their agendas. Inevitably everyone must entrust to them their social interactions, their privacy and security and face inequitable practices.This situation has created an unprecedented monopoly on internet communication, which greatly harms individual freedoms and fair competition. In this paper we present a decentralized approach to social interactions in which the monopolizing middlemen are completely removed from the ecosystem. We describe how it can be replaced by a network of trustless nodes working together to provide all the necessary technologies, while ensuring network neutrality.
 In doing so, our purpose is to:
 - Free social internet interactions from privacy invasion, abuse of dominant position, or any risks of a monopolized market. 
 - Bring back the Internet’s control-less user-driven form and revive it as a universal tool for innovation and creativity.
 - Restore a fair competition environment and balanced revenue distribution for all the ecosystem actors.
+
+<br />
 
 ## Current de facto standards 
 
@@ -27,6 +30,7 @@ Storage & application providers concentrate all authority over the functionment 
 On the other hand, Human users by their attention, engagement and creativity make the core value of the ecosystem. Yet, they do not enjoy a position as essential player within the ecosystem but rather as a product of it. 
 Overall, the ecosystem middlemen occupy a technological dominant position allowing them to capture the distribution of control and incentive. 
 
+<br />
 
 ## The Decentralized Approach 
 
@@ -37,6 +41,7 @@ To accomplish this, ichigo network relies on cryptography, blockchain and peer-t
 -	trustless advertising market and promotion
 -	dissociated and re-usable application layer
 
+<br />
 
 ## Profile and Identification
 
@@ -44,10 +49,14 @@ Every actor of the ecosystem has a unique profile. We rely on cryptographic iden
 This profile can be used by human users to maintain profile information and point to a feed of contents present in flash storages. Users can maintain a list of profiles to stay in contact with other users of the network. As we will present hereafter, the application layer will also be able to make use of this profile to provide social interaction interfaces. 
 Other actors of the ichigo ecosystem will also rely on a profile to make themselves known to the network and demonstrate their honest services (ichigo nodes, application layer providers and advertisers)
 
+<br />
+
 ## Decentralized on-demand storage
 
 Flash storage works on a peer-to-peer network of nodes. It consists in agreements to lease storage space from a node to a user focusing on content of relatively small size and limited period of storage time. This use-case is the most optimized for social interaction and allows greater speed and flexibility. 
 For every flash storage lease, the user and the node concur on data size, time frame and cost. The node will then be responsible to make the data available on the network for the specified time frame. Flash storage uses blockchain to ensure security of the network and peer-to-peer technology to make data available to any users. Nodes will be incentivized to work honestly using collaterals / stacking obligations and a reputation system. 
+
+<br />
 
 ### Flash Storage Security
 
@@ -64,10 +73,14 @@ The purpose of the reputation system is to keep track of honest and well perform
 
 Advertisement represents the biggest part of the social ecosystem financing. Ichigo ecosystem maintains this source of financing but the distribution of incentives is made fair and transparent between the human user for its attention and engagement, the content creator for the added-value it brings and the application-layer for the interface it provides. Application layer providers can propose to sell ad impressions. They declare their business model to the network which defines the calculation for incentives distribution between ecosystem actors. To avoid deceptions, business models are locked for a certain period before they can be updated again. On the other side, Advertiser can register bids for ad impression specifying their requirements in terms of impression cost, application reputation, business-model, frequency of impression, etc.  Applications that meets those requirements can display the ad to their user. They register the amount of attention the ad gets in the user attention ledger. The settlement of incentives for all actors will be calculated by the ecosystem based on those user attention metrics and the registered application’s business model. A reputation score is kept for all application. This helps advertisers avoid poorly performing or deceptive applications. For example, Third-party services can propose human-readable access to applications’ business-model, their reputation and previous performances and advertisers can maintain black/shite list.
 
+<br />
+
 ## Application Layer
 
 Applications provide the human user facing layer to access the network and interact with it. The ichigo ecosystem sets conventions on how to implement 2 key-functionalities: the encryption / decryption routine and the content formatting.
 This approach dissociates completely the interface, the storage, and the content itself. Only the human user owns and can access and manage their content. The contents are not locked-in by a specific application, but any applications can commonly interact with it if the user allows it. As seen above, the application layer can be incentivized for this service with advertisement impressions. It will also be possible to allow the apparition of other business models such as subscription, pay per access, etc.
+
+<br />
 
 ## Roadmap
 
@@ -94,6 +107,8 @@ This approach dissociates completely the interface, the storage, and the content
 - Community Governance
 - Stacking & validation
 - Ad market place launch
+
+<br />
 
 ## Project outlines
 
