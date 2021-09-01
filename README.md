@@ -84,26 +84,26 @@ This approach dissociates completely the interface, the storage, and the content
 
 ## Roadmap
 
-2021 Q3 **Testnet**  
-*Run ecosystem on test chain*
+2021 Q3  
+**Testnet** - *Run ecosystem on test chain*
 - Ichigo node v0
 - Test wallet
 - JS tes SDK
 
-2021 Q4 **Pre-production**  
-*Prepare for release*
+2021 Q4  
+**Pre-production** - *Prepare for release*
 - Ichigo token launch
 - Test wallet v1
 - Ichigo node v1
 
-2022 Q2 **Core Product**  
-*Real-world launch*
+2022 Q2  
+**Core Product** - *Real-world launch*
 - Ichigo node v2
 - Mainnet release
 - SDK: js, C#, java
 
-2022 Q3 **Governance**  
-*Run ecosystem on test chain*
+2022 Q3 
+**Governance** - *Run ecosystem on test chain*
 - Community Governance
 - Stacking & validation
 - Ad market place launch
