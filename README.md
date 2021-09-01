@@ -1,4 +1,4 @@
-#  first fully decentralized ecosystem for digital social interactions 
+# The first fully decentralized ecosystem for digital social interactions 
 
 
 _Everyday people and businesses rely on social media to connect with friends, family, colleagues or clients, making internet social interactions a cornerstone of modern civilization. We envision a new ecosystem, fully decentralized, without gatekeepers or intermediaries, in which its community thrives in a fair and unconstrained environment, making our digital world a better place_
@@ -73,27 +73,27 @@ This approach dissociates completely the interface, the storage, and the content
 
 2021 Q3 - **Testnet**
 *Run ecosystem on test chain*
--- Ichigo node v0
--- Test wallet
--- JS tes SDK
+- Ichigo node v0
+- Test wallet
+- JS tes SDK
 
 2021 Q4 - **Pre-production**
 *Prepare for release*
--- Ichigo token launch
--- Test wallet v1
--- Ichigo node v1
+- Ichigo token launch
+- Test wallet v1
+- Ichigo node v1
 
 2022 Q2 - **Core Product**
 *Real-world launch*
--- Ichigo node v2
--- Mainnet release
--- SDK: js, C#, java
+- Ichigo node v2
+- Mainnet release
+- SDK: js, C#, java
 
 2022 Q3 - **Governance**
 *Run ecosystem on test chain*
--- Community Governance
--- Stacking & validation
--- Ad market place launch
+- Community Governance
+- Stacking & validation
+- Ad market place launch
 
 ## Project outlines
 
