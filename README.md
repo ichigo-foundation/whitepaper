@@ -56,8 +56,6 @@ Other actors of the ichigo ecosystem will also rely on a profile to make themsel
 Flash storage works on a peer-to-peer network of nodes. It consists in agreements to lease storage space from a node to a user focusing on content of relatively small size and limited period of storage time. This use-case is the most optimized for social interaction and allows greater speed and flexibility. 
 For every flash storage lease, the user and the node concur on data size, time frame and cost. The node will then be responsible to make the data available on the network for the specified time frame. Flash storage uses blockchain to ensure security of the network and peer-to-peer technology to make data available to any users. Nodes will be incentivized to work honestly using collaterals / stacking obligations and a reputation system. 
 
-<br />
-
 ### Flash Storage Security
 
 **General concept**
@@ -68,6 +66,8 @@ The purpose of the dispute resolution system is to discourage dishonest nodes fi
 
 **reputation system**
 The purpose of the reputation system is to keep track of honest and well performing nodes. The ichigo architecture includes a contract dedicated to keeping a reputation score for every registered node. Honest and helpful activity on the network will increase this score, while breach will drastically decrease it.  In parallel, stacking tokens will also increase the reputation score logarithmically. This can be used by a node with low reputation score to increase its chance to win flash storage bids (for example if the node is new to the network). As the node history builds up and the reputation score increases, they will be able to reduce the amount of token stacked while keeping a satisfactory reputation score.
+
+<br />
 
 ## Equitable Advertising marketplace
 
