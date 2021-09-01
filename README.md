@@ -85,24 +85,28 @@ This approach dissociates completely the interface, the storage, and the content
 ## Roadmap
 
 2021 Q3 - **Testnet**
+
 *Run ecosystem on test chain*
 - Ichigo node v0
 - Test wallet
 - JS tes SDK
 
 2021 Q4 - **Pre-production**
+
 *Prepare for release*
 - Ichigo token launch
 - Test wallet v1
 - Ichigo node v1
 
 2022 Q2 - **Core Product**
+
 *Real-world launch*
 - Ichigo node v2
 - Mainnet release
 - SDK: js, C#, java
 
 2022 Q3 - **Governance**
+
 *Run ecosystem on test chain*
 - Community Governance
 - Stacking & validation
@@ -112,13 +116,13 @@ This approach dissociates completely the interface, the storage, and the content
 
 ## Project outlines
 
-##### Expanding Team
+#### Expanding Team
 The ichigo original team is made of early cryptocurrency enthusiasts with accumulated years of experience in infrastructure design, system security, peer-to-peer technology, and smart-contract coding. However, our team is not limited to a few but shall grow and extend to an open community as does the ichigo ecosystem. As our team knows no limit, contributors join and will keep joining from around the world and help build our ecosystem. As the community thrives, a special fund is put in place to distribute financial incentive for every contributor.
 
-##### Community based governance
+#### Community based governance
 The governance of the ecosystem should belong to its community including developers, service providers and end-users. While ichigo ecosystem already ensures that the financial incentives are shared in a fair way between all, we aim to achieve the same approach in terms of governance. To do so, the governance will gradually shift from the original team to its community until it achieves a 100% community-based decentralized ecosystem.
 
-##### Tokenomics
+#### Tokenomics
 Total Supply: 150 billion
 
 Allocation | Share | Tokens(B) | Comment | 
