@@ -3,7 +3,7 @@
 
 _Everyday people and businesses rely on social media to connect with friends, family, colleagues or clients, making internet social interactions a cornerstone of modern civilization. We envision a new ecosystem, fully decentralized, without gatekeepers or intermediaries, in which its community thrives in a fair and unconstrained environment, making our digital world a better place_
 
-
+<br/>
 ## Overview
 Internet social media are controlled by unavoidable middlemen centralizing all its essential services and capturing financial incentives. The social ecosystem has been developing around those few players and is now restrained by their policies and bends to their agendas. Inevitably everyone must entrust to them their social interactions, their privacy and security and face inequitable practices.This situation has created an unprecedented monopoly on internet communication, which greatly harms individual freedoms and fair competition. In this paper we present a decentralized approach to social interactions in which the monopolizing middlemen are completely removed from the ecosystem. We describe how it can be replaced by a network of trustless nodes working together to provide all the necessary technologies, while ensuring network neutrality.
 In doing so, our purpose is to:
