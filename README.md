@@ -84,8 +84,7 @@ This approach dissociates completely the interface, the storage, and the content
 
 ## Roadmap
 
-2021 Q2 - 2022 Q1
-**Proof of Concept**
+2021 Q2 - 2022 Q1 **Proof of Concept**
 - Architecture Conception
 - Implementation Solution Design
 - Prototyping and Testing
@@ -94,22 +93,19 @@ This approach dissociates completely the interface, the storage, and the content
 - Deployment of testnet (based on Solana Devnet)
 - Release of testnet sample application layer (Sandbox)
 
-2022 Q2 - Q3
-**Pre-production**
+2022 Q2 - Q3 **Pre-production**
 - Community building
 - Launch of $ICHIGO token
 - Development Node v1 (production MVP)
 - Production readiness for wallet and JS-SDK
 
-2022 Q2  
-**Core Product**
+2022 Q2 **Core Product**
 - Release of Node v1 
 - Initiation of Mainnet 
 - Release of Decentralized Advertisement Marketplace
 - Release of real-world application layer sample
 
-2023 Q1  
-**Expansion**
+2023 Q1 **Expansion**
 - Release of Mobile application / Mobile SDK
 - Switch Community driven governance
 - Implementation of many more functionalities by community 
