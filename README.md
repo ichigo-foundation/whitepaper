@@ -84,29 +84,39 @@ This approach dissociates completely the interface, the storage, and the content
 
 ## Roadmap
 
-2021 Q3  
-**Testnet** - *Run ecosystem on test chain*
-- Ichigo node v0
-- Test wallet
-- JS tes SDK
+2021 Q2 - 2022 Q1
+**Proof of Concept**
+- Architecture Conception
+- Implementation Solution Design
+- Prototyping and Testing
+- Release of Node v0 (used on testnet)
+- Release of Wallet v0
+- Deployment of testnet (based on Solana Devnet)
+- Release of testnet sample application layer (Sandbox)
 
-2021 Q4  
-**Pre-production** - *Prepare for release*
-- Ichigo token launch
-- Test wallet v1
-- Ichigo node v1
+2022 Q2 - Q3
+**Pre-production**
+- Community building
+- Launch of $ICHIGO token
+- Development Node v1 (production MVP)
+- Production readiness for wallet and JS-SDK
 
 2022 Q2  
-**Core Product** - *Real-world launch*
-- Ichigo node v2
-- Mainnet release
-- SDK: js, C#, java
+**Core Product**
+- Release of Node v1 
+- Initiation of Mainnet 
+- Release of Decentralized Advertisement Marketplace
+- Release of real-world application layer sample
 
-2022 Q3  
-**Governance** - *Run ecosystem on test chain*
-- Community Governance
-- Stacking & validation
-- Ad market place launch
+2023 Q1  
+**Expansion**
+- Release of Mobile application / Mobile SDK
+- Switch Community driven governance
+- Implementation of many more functionalities by community 
+direction (social metadata, sub-pub, video, live streaming, 
+Support third-party initiatives such as application development, 
+chain monitoring, etc.
+
 
 <br />
 
@@ -118,13 +128,4 @@ The ichigo original team is made of early cryptocurrency enthusiasts with accumu
 #### Community based governance
 The governance of the ecosystem should belong to its community including developers, service providers and end-users. While ichigo ecosystem already ensures that the financial incentives are shared in a fair way between all, we aim to achieve the same approach in terms of governance. To do so, the governance will gradually shift from the original team to its community until it achieves a 100% community-based decentralized ecosystem.
 
-#### Tokenomics
-Total Supply: 150 billion
 
-Allocation | Share | Tokens(B) | Comment | 
---- | --- | --- | --- |
-Public Fund | 51% | 76.5 | Used as financial incentive in the ichigo ecosystem, to purchase storage or ad impression. | 
-User growth & startup reward  | 17% | 25.5 |To promote engagement and support ichigo to its early adopter (marketing, airdrop, faucet, etc.) and reward early service providers (storage, consensus nodes, etc.). 20% unlocked on day 0, then monthly unlocking over 12. | 
-Ichigo foundation | 15% | 22.5 |To boost development, anticipate future strategic needs and reward all contributors.10% unlocked after 6 months, then monthly unlocking over 12 months. | 
-Team | 13% | 19.5 | *see above* | 
-Partners & Advisors | 4% | 6 | *see above* | 
